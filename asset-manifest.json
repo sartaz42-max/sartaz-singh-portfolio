@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sartaz-singh-portfolio/static/css/main.f0a31a25.css",
-    "main.js": "/sartaz-singh-portfolio/static/js/main.b1670dc1.js",
+    "main.css": "/sartaz-singh-portfolio/static/css/main.d1717539.css",
+    "main.js": "/sartaz-singh-portfolio/static/js/main.c560b452.js",
     "static/js/453.fd8d58a1.chunk.js": "/sartaz-singh-portfolio/static/js/453.fd8d58a1.chunk.js",
     "index.html": "/sartaz-singh-portfolio/index.html",
-    "main.f0a31a25.css.map": "/sartaz-singh-portfolio/static/css/main.f0a31a25.css.map",
-    "main.b1670dc1.js.map": "/sartaz-singh-portfolio/static/js/main.b1670dc1.js.map",
+    "main.d1717539.css.map": "/sartaz-singh-portfolio/static/css/main.d1717539.css.map",
+    "main.c560b452.js.map": "/sartaz-singh-portfolio/static/js/main.c560b452.js.map",
     "453.fd8d58a1.chunk.js.map": "/sartaz-singh-portfolio/static/js/453.fd8d58a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0a31a25.css",
-    "static/js/main.b1670dc1.js"
+    "static/css/main.d1717539.css",
+    "static/js/main.c560b452.js"
   ]
 }
